@@ -1,1 +1,4 @@
+llmlingua
+gradio
+torch
 
